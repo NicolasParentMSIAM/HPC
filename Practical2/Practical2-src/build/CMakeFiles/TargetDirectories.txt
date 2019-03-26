@@ -1,0 +1,4 @@
+/Users/picard/Teaching/Current/GBX8AM01/Labs/Practical2/Practical2-src/build/CMakeFiles/rebuild_cache.dir
+/Users/picard/Teaching/Current/GBX8AM01/Labs/Practical2/Practical2-src/build/CMakeFiles/edit_cache.dir
+/Users/picard/Teaching/Current/GBX8AM01/Labs/Practical2/Practical2-src/build/CMakeFiles/matrix_product.dir
+/Users/picard/Teaching/Current/GBX8AM01/Labs/Practical2/Practical2-src/build/CMakeFiles/max_subarray.dir

@@ -1,0 +1,4 @@
+/home/p/parentn/HPC/Practical2/CMakeFiles/rebuild_cache.dir
+/home/p/parentn/HPC/Practical2/CMakeFiles/edit_cache.dir
+/home/p/parentn/HPC/Practical2/CMakeFiles/max_subarray.dir
+/home/p/parentn/HPC/Practical2/CMakeFiles/matrix_product.dir
